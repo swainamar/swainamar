@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#13233F"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1F3355" stroke-width="1" opacity="0.6"/></pattern>
+  <clipPath id="c"><rect width="1200" height="260" rx="16"/></clipPath></defs><g clip-path="url(#c)">
+  <rect width="1200" height="260" rx="16" fill="url(#g)"/>
+  <rect x="720" width="480" height="260" fill="url(#grid)" opacity="0.7"/>
+  <rect x="64" y="72" width="6" height="116" rx="3" fill="#3B82F6"/>
+  <text x="96" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#F5F7FA">Amar Swain</text>
+  <text x="96" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#3B82F6" letter-spacing="2">RETAIL TECHNOLOGY · ENTERPRISE OPERATIONS</text>
+  <text x="96" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#9FB3C8">Cloud &amp; managed services · Automation · Applied AI tooling</text>
+  <g fill="none" stroke="#3B82F6" stroke-width="2" opacity="0.9">
+    <circle cx="960" cy="130" r="54"/><circle cx="960" cy="130" r="8" fill="#3B82F6"/>
+    <circle cx="1080" cy="70" r="6" fill="#3B82F6"/><circle cx="1090" cy="190" r="6" fill="#3B82F6"/><circle cx="840" cy="200" r="6" fill="#3B82F6"/>
+    <path d="M1001 95L1075 72M1004 160L1085 187M915 162L846 196"/>
+  </g>
+</g></svg>
